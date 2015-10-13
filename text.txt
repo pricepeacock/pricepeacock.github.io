@@ -1,0 +1,51 @@
+Header: Teysha
+
+Nav:
+HOME
+OUR STORY
+SHOP
+VISIT US
+TEXTILE
+
+<section>
+Backgroung img
+h1: Create Shoes that Connect Worlds
+P: Join the Adventure
+Button: Start Designing
+
+<section>
+img: Teysha Logo
+h1: Our Story
+p: Teysha recognizes indigenous art forms, traditional artisans, and the world's own ability to catalyze positve change. When you wear and share these art forms, you become an ally, telling the stories, celebrating the creativity, and expanding the opportunities for communities worldwide.
+
+<section>
+img: world
+h1: Reconnect
+p: We collaborate to connect cultures and communities throughout the Americas from New York City to the highlands of Guatemala
+
+img: lightbulb
+h2: Reimagine
+p: We imagine an extraordinary world where art, beauty, and community surrounds us.
+
+img: sewing needle
+h3:Recreate
+p: The goods we create have the power to spark creativity, conversation and connection, weaving a more vibrant world.
+
+img:boot
+h4: Choose a Boot to Customize
+p:text
+
+<section>
+img: Austin HQ
+h1: The Teysha Austin Shop
+P: 1801 S. 1st Street, Austin, TX 78704 // Wednesday to Saturday 10a-6p, Sunday 1p-5p
+
+img:NYC Pop Up Shop
+h2: The Teysha Pop Up Experience
+P: 88 10th Avenue, New York, New York, Artists and Fleas Chelsea Market // Monday - Saturday 10a-9p, Sunday 10a - 8p
+
+<section>
+img: Boot pic from pop up shop
+h1: We Believe in Making the World a More Vibrant Place
+Button: Shop
+Button: Textiles
