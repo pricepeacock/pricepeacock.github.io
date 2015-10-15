@@ -42,6 +42,7 @@ nav a:hover {
 
 #home {
     background: url('../img/boots.jpg') no-repeat center; padding: 100px 0; text-align: center; color: #fff;
+background-size:cover;
     
 }
 
