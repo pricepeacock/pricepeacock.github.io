@@ -94,7 +94,7 @@ text-align: center;
     padding: 10px;
     padding-top: 30px;
     padding-bottom: 30px;
-    font-size: 20px;
+    font-size: 36px;
     font-family: 'Pacifico', sans-serif;
     font: bold;
     height: 20px;
@@ -104,7 +104,7 @@ text-align: center;
 
 #about p {
     width: 73%;
-    padding: 10px;
+    padding: 25px;
     height: 20px;
     font-size: 15px;
     line-height: 25px;
@@ -172,12 +172,6 @@ float: left;
 }
 
 
-.clear-fix:after {
-    content: '';
-    display: block;
-    clear: both;
-}
-
 #vibrant {
 background: url('../img/Teysha-Embroidered-Loafers.png') no-repeat center; padding: 100px 0; text-align: center; color: #fff;   
     
@@ -186,6 +180,7 @@ background: url('../img/Teysha-Embroidered-Loafers.png') no-repeat center; paddi
 #vibrant h1 {
 font-size: 40px;
 font-family: 'Pacifico', sans-serif;
+text-align: center;
 }
 
 #vibrant div {
