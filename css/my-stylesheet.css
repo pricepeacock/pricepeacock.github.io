@@ -146,10 +146,8 @@ width: 35%;
 margin: 10px;
 padding: 60px;
 padding-right: 100px;
-align-content: center;
 text-align: center;
 float: left;
-    
 }
 
 
@@ -163,10 +161,10 @@ float: left;
 .visit h1 {
     font-size: 28px;
     font-family: 'Pacifico', sans-serif;
-    padding-bottom: 5px;
     font: bold;
 }
 
 .visit p {
      line-height: 20px;
+    padding: 3px;
 }
