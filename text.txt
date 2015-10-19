@@ -21,7 +21,7 @@ p: Teysha recognizes indigenous art forms, traditional artisans, and the world's
 <section>
 img: world
 h1: Reconnect
-p: We collaborate to connect cultures and communities throughout the Americas from New York City to the highlands of Guatemala
+p: We collaborate to connect cultures and communities throughout the Americas from New York City to the highlands of Guatemala.
 
 img: lightbulb
 h2: Reimagine
