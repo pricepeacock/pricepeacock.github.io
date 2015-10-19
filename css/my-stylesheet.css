@@ -178,14 +178,13 @@ background: url('../img/Teysha-Embroidered-Loafers.png') no-repeat center; paddi
 }
 
 #vibrant h1 {
-font-size: 40px;
+font-size: 30px;
 font-family: 'Pacifico', sans-serif;
 text-align: center;
 }
 
 #vibrant div {
  margin-top: 15px;
-float: left;
 }
 
 .btn a {
