@@ -41,7 +41,7 @@ h1: The Teysha Austin Shop
 P: 1801 S. 1st Street, Austin, TX 78704 // Wednesday to Saturday 10a-6p, Sunday 1p-5p
 
 img:NYC Pop Up Shop
-h2: The Teysha Pop Up Experience
+h1: The Teysha Pop Up Experience
 P: 88 10th Avenue, New York, New York, Artists and Fleas Chelsea Market // Monday - Saturday 10a-9p, Sunday 10a - 8p
 
 <section>

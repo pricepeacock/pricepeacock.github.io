@@ -41,9 +41,11 @@ nav a:hover {
 }
 
 #home {
-    background: url('../img/boots.jpg') no-repeat center; padding: 100px 0; text-align: center; color: #fff;
-background-size:cover;
-    
+    background: url('../img/boots.jpg') no-repeat center;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
+    background-size: cover;
 }
 
 #home h2 {
@@ -56,14 +58,13 @@ background-size:cover;
 }
 
 #home p {
-    font-size: 24px; 
+    font-size: 24px;
 }
 
 .btn a {
-    
-   border-radius: 5px;
+    border-radius: 5px;
     background-color: deeppink;
-   color: white;
+    color: white;
     text-decoration: none;
     padding: 20px;
     text-align: center;
@@ -71,16 +72,14 @@ background-size:cover;
 }
 
 #about {
-    
-background: white no-repeat;
-margin: 20px;
-padding: 150px 50px 150px 50px;
-text-align: center;
-    
+    background: white no-repeat;
+    margin: 10px;
+    padding: 132px 50px 132px 50px;
+    text-align: center;
 }
- 
+
 #about img {
-    float:left;
+    float: left;
     padding: 50px;
     padding-top: 40px;
     margin-top: 10px;
@@ -99,7 +98,6 @@ text-align: center;
     font: bold;
     height: 20px;
     text-align: center;
-    
 }
 
 #about p {
@@ -109,7 +107,6 @@ text-align: center;
     font-size: 15px;
     line-height: 25px;
     text-align: center;
-    
 }
 
 .weave {
@@ -119,14 +116,12 @@ text-align: center;
     align-content: center;
     text-align: center;
     float: left;
-    
 }
 
 .weave img {
     width: 40%;
     height: 40%;
     padding: 66px;
-    
 }
 
 .weave h3 {
@@ -134,68 +129,62 @@ text-align: center;
     font-family: 'Pacifico', sans-serif;
     font: bold;
     padding: 5px;
-    
 }
 
 .weave p {
- line-height: 20px;
+    line-height: 20px;
 }
 
 .visit {
-width: 35%;
-margin: 10px;
-padding: 60px;
-padding-right: 100px;
-align-content: center;
-text-align: center;
-float: left;
-    
+    width: 35%;
+    margin: 10px;
+    padding: 60px;
+    padding-right: 100px;
+    align-content: center;
+    text-align: center;
+    float: left;
 }
 
-
 .visit img {
-    padding: 10%;
     width: 90%;
     height: 90%;
-    
 }
 
 .visit h1 {
     font-size: 28px;
     font-family: 'Pacifico', sans-serif;
+    padding-top: 5px;
     padding-bottom: 5px;
     font: bold;
 }
 
 .visit p {
-     line-height: 20px;
+    line-height: 20px;
 }
 
-
 #vibrant {
-background: url('../img/Teysha-Embroidered-Loafers.png') no-repeat center; padding: 100px 0; text-align: center; color: #fff;   
-    
+    background: url('../img/Teysha-Embroidered-Loafers.png') no-repeat center;
+    padding: 100px 0;
+    text-align: center;
+    color: #fff;
 }
 
 #vibrant h1 {
-font-size: 30px;
-font-family: 'Pacifico', sans-serif;
-text-align: center;
+    font-size: 30px;
+    font-family: 'Pacifico', sans-serif;
+    text-align: center;
 }
 
 #vibrant div {
- margin-top: 15px;
+    margin-top: 15px;
 }
 
 .btn a {
-    
-   border-radius: 5px;
+    border-radius: 5px;
     background-color: deeppink;
-   color: white;
+    color: white;
     text-decoration: none;
     padding: 20px;
     text-align: center;
     padding: 10px;
 }
-
-
