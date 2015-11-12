@@ -6,7 +6,8 @@ body {
 }
 
 .navbar-brand img {
-
+max-height: 175%;
+    max-width: 175%;
 }
 
 
