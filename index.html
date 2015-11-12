@@ -3,101 +3,152 @@
 
 <head>
     <title>Teysha</title>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <!-- set of rules to reset element -->
-    <link href="css/css-reset.css" rel="stylesheet" />
+    <!-- Libraries -->
+    <link rel="stylesheet" href="css/bootstrap.min.css">
 
     <!-- adding font from Google Fonts -->
 
     <link href=’https://www.google.com/fonts#UsePlace:use/Collection:Open+Sans:400,300,700,400italic’ rel=’stylesheet’ type=’text/css’>
 
     <!-- My Own Stylesheet-->
-    <link rel="stylesheet" href="css/my-stylesheet.css">
+    <link rel="stylesheet" href="css/my-final-project.css">
+
+
+
+
 </head>
 
 <body>
 
-    <header class="clear-fix">
-        <h1>Teysha</h1>
-        <nav>
-            <a href="#home">HOME</a>
-            <a href="#about">OUR STORY</a>
-            <a href="#purchase">SHOP</a>
-            <a href="#selection">VISIT US</a>
-            <a href="#textile">TEXTILES</a>
-        </nav>
-    </header>
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header">
+                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#example-navbar-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand" href="#"><img class="img-responsive" src="img/Teysha_logo.png"></a>
+            </div>
 
-    <section id="home">
-        <h2>Create Shoes that Connect Worlds</h2>
-        <p>Join the Adventure</p>
-        <div class="btn">
+            <!-- Collect the nav links for toggling -->
+            <div class="collapse navbar-collapse" id="example-navbar-collapse">
+                <ul class="nav navbar-nav">
+                    <li>
+                        <a href="#">HOME</a>
+                    </li>
+                    <li>
+                        <a href="#">SHOP</a>
+                    </li>
+                    <li>
+                        <a href="#">OUR STORY</a>
+                    </li>
+                    <li>
+                        <a href="#">TEXTILES</a>
+                    </li>
+                    <li>
+                        <a href="#">VISIT US</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <section id="hero">
+        <div>
+            <h1>Create Shoes that Connect Worlds</h1>
+            <p>Join the Adventure</p>
             <a href="#btn">DESIGN YOURS</a>
         </div>
 
     </section>
 
-    <section id="about">
-        <img src="img/11954639_906860472718295_5625133238944443767_n.jpg">
-        <h1>#WeaveYourWorld</h1>
-        <P>Teysha recognizes indigenous art forms, traditional artisans, and the world's own ability to catalyze positve change. When you wear and share these art forms, you become an ally, telling the stories, celebrating the creativity, and expanding the opportunities for communities worldwide.</P>
+    <section id="container-fluid">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4">
+                    <img src="img/11954639_906860472718295_5625133238944443767_n.jpg">
+                </div>
 
-    </section>
+                <div class="col-md-8">
+                    <h1>#WeaveYourWorld</h1>
+                    <p>Teysha recognizes indigenous art forms, traditional artisans, and the world's own ability to catalyze positve change. When you wear and share these art forms, you become an ally, telling the stories, celebrating the creativity, adn expanding the opportunities for communities worldwide.</p>
 
-    <section id="selection" class="clear-fix">
-        <div class="weave">
-            <img src="img/globe.jpg" alt="weave" />
-            <h3>Reconnect</h3>
-            <p>We collaborate to connect cultures and communities throughout the Americas from New York City to the highlands of Guatemala.</p>
-        </div>
-
-        <div class="weave">
-            <img src="img/bulb.jpg" alt="weave" />
-            <h3>Reimagine</h3>
-            <p>We imagine an extraordinary world where art, beauty, and community surrounds us.</p>
-        </div>
-
-        <div class="weave">
-            <img src="img/needle.jpg" alt="weave" />
-            <h3>Recreate</h3>
-            <p>The goods we create have the power to spark creativity, conversation and connection, weaving a more vibrant world.</p>
-        </div>
-
-        <div class="weave">
-            <img src="img/boot_2.jpg" alt="weave" />
-            <h3>Customize</h3>
-            <p>We have five basic boot styles, please choose one to begin customizing.</p>
-        </div>
-
-    </section>
-
-    <section id="see" class="clear-fix">
-        <div class="visit">
-            <img src="img/atx_hq.jpg" alt="visit" />
-            <h1>The Teysha Austin Shop</h1>
-            <p>1801 S. 1st Street, Austin, TX 78704 // Wednesday to Saturday 10a-6p, Sunday 1p-5p</p>
-        </div>
-
-        <div class="visit">
-            <img src="img/nyc_pop.jpg" alt="visit" />
-            <h1>The Teysha Pop Up Experience</h1>
-            <p>88 10th Avenue, New York, New York, Artists and Fleas Chelsea Market // Monday - Saturday 10a-9p, Sunday 10a - 8p</p>
-        </div>
-
-    </section>
-
-    <section id="vibrant">
-        <div class="believe">
-            <h1>We Believe in Making the World a More Vibrant Place</h1>
-            <div class="btn">
-                <a href="#btn">SHOP</a>
-                <a href="#btn">TEXTILES</a>
+                </div>
             </div>
 
+            <div class="row">
+                <div class="col-md-3">
+                    <img src="img/globe.jpg">
+                    <h1>Reconnect</h1>
+                    <p>We collaborate to connect cultures and communities throughout the Americas from New York City to the highlands of Guatemala.</p>
+                </div>
+
+                <div class="col-md-3">
+                    <img src="img/bulb.jpg">
+                    <h1>Reimagine</h1>
+                    <p>We imagine an extraordinary world where art, beauty, and community surrounds us.</p>
+                </div>
+
+                <div class="col-md-3">
+                    <img src="img/needle.jpg">
+                    <h1>Recreate</h1>
+                    <p>The goods we create have the power to spark creativity, conversation and connection, weaving a more vibrant world.</p>
+                </div>
+
+                <div class="col-md-3">
+                    <img src="img/boot-peace-street.png">
+                    <h1>Customize</h1>
+                    <p>We have five boot styles, please choose one to begin customizing.</p>
+
+                </div>
 
 
+            </div>
+            <div class="row">
+            <div class="col-md-6">
+                <img src="img/atx_hq.jpg">
+                <h1>The Teysha Austin Shop</h1>
+                <p>1801 S. 1st Street, Austin, TX 78704 // Wednesday to Saturday 10a-6p, Sunday 1p-5p</p>
+                
+                </div>
+                <div class="col-md-6">
+                <img src="img/nyc_pop.jpg">
+                <h1>The Teysha Pop Up Experience</h1>
+                <p>88 10th Avenue, New  York, New York, Artists and Fleas Chelsea Market // Monday - Saturday 10a-9p, Sunday 10a-8p</p>
+                </div>
+                
+                <div class="col-md-12">
+                <h1>We Believe in Making the World a More Vibrant Place</h1>
+                    <a href="#btn">SHOP</a>
+                    
+                
+                </div>
+            
+            
+            </div>
+
+        </div>
     </section>
 
+
+
+
+
+
+
+
+
+
+    <link rel="stylesheet" href="js/jquery-1.11.3.min.js">
+    <link rel="stylesheet" href="js/bootstrap.min.js">
 
 </body>
 
