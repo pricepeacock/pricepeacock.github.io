@@ -66,11 +66,12 @@ max-height: 175%;
     width: 70%;
     height: 70%; 
     padding-top: 120px;
-    padding-left: 60px;
+    padding-left: 40px;
     padding-bottom: 120px;
 }
 
 .col-md-8 h1 {
+    padding-top: 80px;
     font-family: 'Pacifico', sans-serif;
     font: bold;
     height: 20px;
@@ -79,9 +80,9 @@ max-height: 175%;
 
 .col-md-8 p {
     font-family: 'Open Sans', sans-serif;
-    font-size: 14px;
-    padding: 25px;
-    font-size: 15px;
+    padding-top: 65px;
+    font-size: 16px;
     line-height: 25px;
     text-align: center; 
+    width: 92%;
 }
