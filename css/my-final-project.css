@@ -1,10 +1,17 @@
 html,
 body {
     height: 100%;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
 }
 
 .navbar-brand img {
     padding-top: none;
+}
+
+collapse navbar-collapse {
+    float: right;
+    font-size: 16px;
 }
 
 #hero {
@@ -22,4 +29,10 @@ body {
 #hero > div {
     display: table-cell;
     vertical-align: middle;
+}
+
+#hero h1 {
+    color: white;
+    font-size: 62px;
+    font-family: 'Pacifico', sans-serif;
 }
