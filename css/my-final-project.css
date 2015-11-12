@@ -9,7 +9,7 @@ body {
     padding-top: none;
 }
 
-collapse navbar-collapse {
+.collapse navbar-collapse {
     float: right;
     font-size: 16px;
 }
@@ -37,9 +37,18 @@ collapse navbar-collapse {
     font-family: 'Pacifico', sans-serif;
 }
 
-.btn a {
-    border-radius: 5px;
+#hero p {
+    font-size: 24px;
+    color: white;
+}
+
+.button {
+     border-radius: 5px;
     background-color: deeppink;
     color: white;
     text-decoration: none;
+    padding: 20px;
+    text-align: center;
+    padding: 10px;
+}
 }
