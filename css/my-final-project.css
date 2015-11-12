@@ -36,3 +36,10 @@ collapse navbar-collapse {
     font-size: 62px;
     font-family: 'Pacifico', sans-serif;
 }
+
+.btn a {
+    border-radius: 5px;
+    background-color: deeppink;
+    color: white;
+    text-decoration: none;
+}
