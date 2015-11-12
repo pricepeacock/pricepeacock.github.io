@@ -63,8 +63,25 @@ max-height: 175%;
 }
 
 #teysha-logo {
-    padding-top: 80px;
     width: 70%;
-    height: 70%;
-    
+    height: 70%; 
+    padding-top: 120px;
+    padding-left: 60px;
+    padding-bottom: 120px;
+}
+
+.col-md-8 h1 {
+    font-family: 'Pacifico', sans-serif;
+    font: bold;
+    height: 20px;
+    text-align: center;
+}
+
+.col-md-8 p {
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    padding: 25px;
+    font-size: 15px;
+    line-height: 25px;
+    text-align: center; 
 }
