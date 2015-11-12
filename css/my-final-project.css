@@ -5,14 +5,27 @@ body {
     font-size: 14px;
 }
 
+.opaque-navbar {
+    background-color: transparent;
+  /* Transparent = rgba(0,0,0,0) / Translucent = rgba (0,0,0,0.5)  */
+    transition: background-color .5s ease 0s;
+}
+
+.opaque-navbar.opaque {
+    background-color: black;
+    transition: background-color .5s ease 0s;
+}
+
 .navbar-brand img {
 max-height: 175%;
     max-width: 175%;
 }
 
+.nav navbar-nav navbar-right {
+ color: white;
+}
 
 #hero {
-    margin-top: 50px;
     background: url('../img/boots_2.jpg');
     background-position: center;
     background-repeat: no-repeat;
@@ -48,4 +61,10 @@ max-height: 175%;
     text-align: center;
     padding: 10px;
 }
+
+#teysha-logo {
+    padding-top: 80px;
+    width: 70%;
+    height: 70%;
+    
 }
