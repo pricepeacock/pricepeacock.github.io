@@ -92,6 +92,28 @@ body {
 
 .col-md-3 {
  text-align: center;   
-padding-bottom: 100px;
+padding-top: 50px;
+padding-bottom: 120px;
+}
+
+.col-md-3 h3 {
+   font-size: 36px;
+    font-family: 'Pacifico', sans-serif;
+    font: bold;  
+}
+
+.col-md-3 p {
+ padding-top: 10px;
+ line-height: 20px;   
+}
+
+.col-md-6 {
+font-family: 'Open Sans', sans-serif;
+ text-align: center;   
+}
+
+.col-md-6 img {
+    max-height: 80%;
+    max-width: 80%;
 }
 
