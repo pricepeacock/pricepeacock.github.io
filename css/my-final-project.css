@@ -94,6 +94,7 @@ body {
  text-align: center;   
 padding-top: 50px;
 padding-bottom: 120px;
+
 }
 
 .col-md-3 h3 {
@@ -115,5 +116,13 @@ font-family: 'Open Sans', sans-serif;
 .col-md-6 img {
     max-height: 80%;
     max-width: 80%;
+}
+
+.col-md-6 h1 {
+    font-size: 28px;
+    font-family: 'Pacifico', sans-serif;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    font: bold;
 }
 
