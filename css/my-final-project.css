@@ -74,6 +74,7 @@ body {
 #teysha-logo {
     width: 70%;
     height: 70%;
+    display: inline;
     text-align: center;
     padding-top: 120px;
     padding-left: 40px;
